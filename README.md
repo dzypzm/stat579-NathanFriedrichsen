@@ -1,5 +1,4 @@
-# stat579-NathanFriedrichsen-yusi
-my first github repo
+# stat579-NathanFriedrichsen
 
 NathanFriedrichsen
 
